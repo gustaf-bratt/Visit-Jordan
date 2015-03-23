@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embassies</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Jordanian Embassy in Abu Dhabi, UAE</string>
+			<key>phone</key>
+			<string>+9712 4447100</string>
+			<key>email</key>
+			<string>abudhabi@fm.gov.jo</string>
+			<key>address</key>
+			<string>Diplomatic Complex, Airport Road</string>
+			<key>workinghours</key>
+			<string>8:00 – 14:00, closed Thursday &amp; Friday</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jordanian Embassy in Beijing, China</string>
+			<key>phone</key>
+			<string>+9712 4447100</string>
+			<key>email</key>
+			<string>abudhabi@fm.gov.jo</string>
+			<key>address</key>
+			<string>Diplomatic Complex, Airport Road</string>
+			<key>workinghours</key>
+			<string>8:00 – 14:00, closed Thursday &amp; Friday</string>
+		</dict>
+	</array>
+</dict>
+</plist>

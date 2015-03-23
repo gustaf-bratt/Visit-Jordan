@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fun</key>
+	<dict>
+		<key>label1</key>
+		<dict>
+			<key>title</key>
+			<string>3 Day Itinerary</string>
+			<key>text</key>
+			<string>Day 1
+Transfer to Dana - Overnight in Dana
+
+Day 2
+Transfer to Wadi Rum - Overnight in Wadi Rum
+
+Day 3
+Transfer to Wadi Mujib - Overnight in Amman</string>
+		</dict>
+		<key>label2</key>
+		<dict>
+			<key>title</key>
+			<string>5 Day Itinerary</string>
+			<key>text</key>
+			<string>Day 1
+Transfer to Dana - Overnight in Dana
+
+Day 2
+Transfer to Petra - Overnight in Petra
+
+Day 3
+Transfer to Wadi Rum - Overnight in Wadi Rum
+
+Day 4
+Transfer to Aqaba - Overnight in Aqaba 
+
+Day 5
+Transfer to Wadi Mujib - Overnight in Amman</string>
+		</dict>
+		<key>label3</key>
+		<dict>
+			<key>title</key>
+			<string>8 Day Itinerary</string>
+			<key>text</key>
+			<string>Day 1
+Amman - Overnight in Amman
+
+Day 2
+Amman, Jerash, Ajlun - Overnight in Ajlun
+
+Day 3
+Transfer to Dana - Overnight in Dana
+
+Day 4
+Transfer to Petra - Overnight in Petra
+
+Day 5
+Transfer to Wadi Rum - Overnight in Wadi Rum
+
+Day 6
+Transfer to Aqaba - Overnight in Aqaba
+
+Day 7
+Aqaba - Overnight in Aqaba
+
+Day 8
+Transfer to Wadi Mujib - Return to Amman</string>
+		</dict>
+	</dict>
+	<key>history</key>
+	<dict>
+		<key>label1</key>
+		<dict>
+			<key>title</key>
+			<string>1 Day Itinerary</string>
+			<key>text</key>
+			<string>Day 1
+Jerash, Ajlun
+
+Day 2
+Amman (City Tour)
+
+Day 3
+Madaba, Mount Nebo, Bethany Beyond the Jordan</string>
+		</dict>
+		<key>label2</key>
+		<dict>
+			<key>title</key>
+			<string>3 Day Itinerary</string>
+			<key>text</key>
+			<string>Day 1
+Amman, Jerash, Madaba and Dead Sea - Overnight in Amman 
+
+Day 2
+Petra - Overnight in Little Petra
+
+Day 3
+Karak, Madaba and Mount Nebo - Overnight in Amman</string>
+		</dict>
+		<key>label3</key>
+		<dict>
+			<key>title</key>
+			<string>5 Day Itinerary</string>
+			<key>text</key>
+			<string>Day 1
+Amman, Jerash, Ajlun - Overnight in Amman 
+
+Day 2
+Madaba, Mount Nebo, Karak - Overnight at Petra
+
+Day 3
+Petra - Overnight at Petra
+
+Day 4
+Wadi Rum - Overnight Dead Sea
+
+Day 5
+Bethany Beyond The Jordan</string>
+		</dict>
+	</dict>
+	<key>eco</key>
+	<dict>
+		<key>label1</key>
+		<dict>
+			<key>title</key>
+			<string>1 Day Itinerary</string>
+			<key>text</key>
+			<string>Summer: Mujib Nature Reserve
+Winter: Dana Nature Reserve</string>
+		</dict>
+		<key>label2</key>
+		<dict>
+			<key>title</key>
+			<string>3 Day Itinerary </string>
+			<key>text</key>
+			<string>Day 1
+Mujib Nature Reserve - Overnight in Amman 
+
+Day 2
+Dana Nature Reserve - Overnight in Dana 
+
+Day 3
+Wadi Rum - Overnight in Wadi Rum </string>
+		</dict>
+		<key>label3</key>
+		<dict>
+			<key>title</key>
+			<string>5 Day Itinerary</string>
+			<key>text</key>
+			<string>Day 1
+Azraq Wetland Reserve - Overnight in Amman 
+
+Day 2
+Ajlun Nature Reserve - Overnight in Ajlun 
+
+Day 3
+Mujib Nature Reserve - Overnight in Feynan 
+
+Day 4
+Dana Nature Reserve - Overnight in Dana 
+
+Day 5
+Wadi Rum - Overnight in Wadi Rum</string>
+		</dict>
+	</dict>
+	<key>leisure</key>
+	<dict>
+		<key>label1</key>
+		<dict>
+			<key>title</key>
+			<string>3 Day Itinerary</string>
+			<key>text</key>
+			<string>Day 1
+Dead Sea - Overnight Dead Sea
+
+Day 2
+Ma&apos;in Hot Springs - Overnight at Ma&apos;in
+
+Day 3
+Amman</string>
+		</dict>
+		<key>label2</key>
+		<dict>
+			<key>title</key>
+			<string>5 Day Itinerary</string>
+			<key>text</key>
+			<string>Day 1
+Dead Sea - Overnight at The Dead Sea
+
+Day 2
+Ma&apos;in Hot Springs - Overnight at Ma&apos;in
+
+Day 3
+Petra - Overnight in Petra
+
+Day 4
+Aqaba - Overnight in Aqaba
+
+Day 5
+Amman</string>
+		</dict>
+		<key>label3</key>
+		<dict>
+			<key>title</key>
+			<string>8 Day Itinerary</string>
+			<key>text</key>
+			<string>Day 1
+Dead Sea - Overnight at The Dead Sea
+
+Day 2
+Dead Sea - Overnight at The Dead Sea
+
+Day 3
+Ma&apos;in Hot Springs - Overnight at Ma&apos;in
+
+Day 4
+Petra - Overnight in Petra
+
+Day 5
+Wadi Rum - Overnight in Wadi Rum
+
+Day 6
+Aqaba - Overnight in Aqaba
+
+Day 7
+Aqaba - Overnight in Aqaba
+
+Day 8
+Amman</string>
+		</dict>
+	</dict>
+	<key>biblical</key>
+	<dict>
+		<key>label1</key>
+		<dict>
+			<key>title</key>
+			<string>1 Day Itinerary</string>
+			<key>text</key>
+			<string>Amman City Tour (Archaeological Museum), Madaba, Mount Nebo, 
+Bethany Beyond the Jordan</string>
+		</dict>
+		<key>label2</key>
+		<dict>
+			<key>title</key>
+			<string>3 Day Itinerary</string>
+			<key>text</key>
+			<string>Day 1
+Amman, Jerash, Umm Qays - Overnight in Amman
+
+Day 2
+Madaba, Mount Nebo, Bethany, The Dead Sea - Overnight in Amman
+
+Day 3
+Petra - Overnight in Petra</string>
+		</dict>
+		<key>label3</key>
+		<dict>
+			<key>title</key>
+			<string>5 Day Itinerary</string>
+			<key>text</key>
+			<string>Day 1
+Umm Qays, Jerash - Overnight in Amman
+
+Day 2
+Bethany Beyond the Jordan, Madaba, Mount Nebo - Overnight in Amman
+
+Day 3
+Mukawir, Umm Ar-Rasas, Karak - Overnight Petra
+
+Day 4
+Petra, Sila&apos; (Afternoon), Lot&apos;s Cave - Overnight in Amman
+
+Day 5
+Amman Citadel, Roman Theatre, Museums</string>
+		</dict>
+		<key>label4</key>
+		<dict>
+			<key>title</key>
+			<string>8 Day Itinerary</string>
+			<key>text</key>
+			<string>Day 1
+Jerash, Ajlun, Pella, Umm Qays - Overnight in Amman
+
+Day 2
+City Tour Amman, Desert Castles - Overnight in Amman
+
+Day 3
+Madaba, Mount Nebo, Karak - Overnight in Petra
+
+Day 4
+Petra - Overnight in Petra
+
+Day 5
+Wadi Rum - Overnight in Wadi Rum
+
+Day 6
+Aqaba - Overnight in Aqaba
+
+Day 7
+Lot&apos;s Cave, Lot&apos;s Wife and The Dead Sea - Overnight at The Dead Sea
+
+Day 8
+Bethany Beyond the Jordan - Return to Amman</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

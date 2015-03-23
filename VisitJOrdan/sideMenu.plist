@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Title</key>
+		<string>International</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Local</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Asian</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>French</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Chinese</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Lebanese</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>American</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Italian</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Middle Eastern</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Japanese</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Indian</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Brazilian</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Iraqi</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Latin</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Turkey</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Morrocan</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Snaks</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Oreintal</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Sushi</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Fast Food</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Coffee shops</string>
+	</dict>
+</array>
+</plist>

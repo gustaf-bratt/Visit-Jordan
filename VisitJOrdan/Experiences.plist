@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Experiences</key>
+	<dict>
+		<key>fun</key>
+		<dict>
+			<key>Locations</key>
+			<dict>
+				<key>Wadi Rum</key>
+				<dict>
+					<key>Description</key>
+					<string>If you like adventure, you&apos;ll love Wadi Rum. Here you can hire a camel and follow in the footsteps of Lawrence of Arabia, climb the highest peaks, or take a safari trip across the rolling sand dunes in a 4x4 vehicle. You can explore by foot the hidden canyons and discover the secret messages carved in the walls over 4000 years ago, or take a hot air balloon trip and soar with the eagles high above this amazing site. Fun and adventurous activities include hiking down virtually unexplored canyons, rock climbing up to 1,700m, exploring the vast spaces on camel or horse caravans, bird watching, night walking, and hot air ballooning. </string>
+					<key>Img</key>
+					<string>WadiRumFun.png</string>
+					<key>GetThere</key>
+					<string>Wadi Rum makes a perfect combination before or after a visit to Dana, Petra or Aqaba.
+
+By car or taxi:
+From Amman, head south on the Desert Highway or the more scenic Kings&apos; Highway. Allow around 4 hours for the journey if travelling on the Desert Highway or 6 hours travelling on the Kings&apos; Highway.
+
+From Aqaba, head north, the journey time is less than one hour.
+
+By minibus:
+There are a few minibus rides per day from Aqaba and Wadi Musa (Petra). For further information inquire at the local minibus station.
+</string>
+					<key>Map</key>
+					<string>wadi-rum.jpg</string>
+					<key>Latitude</key>
+					<string>29.575869</string>
+					<key>Longitude</key>
+					<string>35.300935</string>
+				</dict>
+				<key>Aqaba</key>
+				<dict>
+					<key>Description</key>
+					<string>Adventure seekers visiting Jordan will be in their element when they visit Aqaba. The southern part of Aqaba is situated on the coast of the Red Sea and offers a wide range of sports and activities of an aquatic nature, including scuba diving, windsurfing, waterskiing, jet skiing, snorkelling and sailing.
+
+Diving in Aqaba is spectacular and goes on all the year round, with different species to be seen in the different seasons. In June /July there are whale sharks, while in February one can often see Mantas. 
+
+Also, the sparkling purple mountains surrounding Aqaba beckon hikers who seek new adventures, and unconquered terrains.</string>
+					<key>Img</key>
+					<string>aqabaFun.png</string>
+					<key>GetThere</key>
+					<string>By air:
+Royal Wings and Jordan Aviation both offer regular flights from Amman to Aqaba; flying time is about 45 minutes. For more information, contact:
+
+Royal Wings
+Tel: (+962) 6 4875202
+
+Jordan Aviation 
+www.jordanaviation.jo
+
+Tel: (+962) 3 2016588 (Aqaba)
+Tel: (+962) 6 4658866 (Amman,Abdali)
+Tel: (+962) 6 5858322(Amman, Sweifieh)
+
+By bus: 
+Several companies offer charter bus tours and regular tours between Amman &amp; Aqaba, including: 
+
+JETT
+Tel: (06) 5664146
+
+Trust International
+Tel: (06) 5813422 
+
+Alpha Daily Tours 
+Tel: (06) 5855196
+
+By car or taxi: 
+Aqaba via the Dead Sea road is about 3 - 4 hours drive from Amman, while the drive takes 4 hours along the Desert Highway and 5 hours on the scenic Kings&apos; Highway.
+
+</string>
+					<key>Map</key>
+					<string>aqaba.jpg</string>
+					<key>Latitude</key>
+					<string>29.565096</string>
+					<key>Longitude</key>
+					<string>35.007935</string>
+				</dict>
+				<key>Wadi Mujib</key>
+				<dict>
+					<key>Description</key>
+					<string>One of the great water adventures in Jordan is to hike, climb and swim through the Wadi Mujib gorge, along the east coast of the Dead Sea. Grab a lifejacket and take the plunge. The river is your only path as you trek uphill from the Dead Sea through the narrow, 50m high walls of the Wadi. Your guide will take you through a series of cascading waterfalls, each more challenging than the one before. At the end of the terrain you will find yourself at a magical pool beneath a waterfall that emerges like a mirage from amidst the surrounding warm cliffs and barren hillsides. For all adventure seekers, Wadi Mujib is not to be missed. </string>
+					<key>Img</key>
+					<string>WadiMujibFun.png</string>
+					<key>GetThere</key>
+					<string>Wadi Mujib Nature Reserve:
+Drive about 30km south of the main Hotel Resort area along the coast, until you reach the Mujib Bridge, where a small Nature Reserve office is located. It is advisable to call in advance.</string>
+					<key>Map</key>
+					<string>wadi-almujib.jpg</string>
+					<key>Latitude</key>
+					<string>31.4634822342</string>
+					<key>Longitude</key>
+					<string>35.5811332344</string>
+				</dict>
+				<key>Dana Biosphere Reserve</key>
+				<dict>
+					<key>Description</key>
+					<string>When visiting this awe-inspiring natural reserve of valleys, rivers and mountains, home to over 800 different species, it is well worth trekking through one of the numerous available hiking trails to explore this world of natural treasures. </string>
+					<key>Img</key>
+					<string>dana.jpg</string>
+					<key>GetThere</key>
+					<string>Take the Kings&apos; Highway south from Amman and pass by Karak and Tafila. Over 20km from Tafila, between the villages of Rashadiyya and Qadisiyya, there are two sign posted roads, one to Rummana Campsite and one to Dana village.</string>
+					<key>Map</key>
+					<string>dana.jpg</string>
+					<key>Latitude</key>
+					<string>30.6933568</string>
+					<key>Longitude</key>
+					<string>35.5546761</string>
+				</dict>
+			</dict>
+			<key>Intro</key>
+			<string>Fun and Adventure Tourism is expanding at a fast rate in Jordan, and promises to remain one of the most dynamic and innovative travel industry sectors for many years to come. Several Jordanian companies now specialize in ecological and adventure tourism, providing the visitor with a combination of safety, adventure, and comfort while they embark on their exciting adventures.</string>
+			<key>Image</key>
+			<string>fun&amp;ad.png</string>
+		</dict>
+		<key>eco</key>
+		<dict>
+			<key>Locations</key>
+			<dict>
+				<key>Dana Biosphere Reserve</key>
+				<dict>
+					<key>Description</key>
+					<string>The Dana Nature Reserve offers the beauty of the Rummana Mountain, the mystery of the ancient archaeological ruins of Khirbet Feynan in Wadi Feynan, the timeless serenity of Dana Village and the grandeur of the red and white sandstone cliffs of Wadi Dana. The reserve also contains a remarkable diversity in landscaping that ranges from wooded highlands and rocky slopes to gravel plains and dunes of sand. Dana supports diverse wildlife: 697 plant species, of which 3 are new to science, and 282 animal species. Many of these animals are now very rare and some are threatened with extinction. To date, 45 endangered or vulnerable species have been found in the reserve, making it truly a place of world importance. </string>
+					<key>Img</key>
+					<string>danaEco.png</string>
+					<key>GetThere</key>
+					<string>Take the Kings&apos; Highway south from Amman and pass by Karak and Tafila. Over 20km from Tafila, between the villages of Rashadiyya and Qadisiyya, there are two sign posted roads, one to Rummana Campsite and one to Dana village.</string>
+					<key>Map</key>
+					<string>dana-nature-reserve.jpg</string>
+					<key>Latitude</key>
+					<string>30.6933568</string>
+					<key>Longitude</key>
+					<string>35.5546761</string>
+				</dict>
+				<key>Wadi Mujib</key>
+				<dict>
+					<key>Description</key>
+					<string>A 1,300m variation in elevation and year-round water flow from seven tributaries means that Wadi Mujib enjoys a magnificent bio-diversity that is still being explored and documented today. The Mujib Reserve is the lowest nature reserve in the world, with a spectacular array of scenery near the east coast of the Dead Sea. 
+
+The reserve is located within the deep Wadi Mujib gorge, which enters the Dead Sea at 410m below sea level. The reserve extends to the Karak and Madaba mountains to the north and south respectively, reaching 900m above sea level in some places. Over 300 species of plants, 10 species of carnivores and numerous species of permanent and migratory birds have been recorded. Some of the remote mountains and valley areas are safe havens for rare species of cats, goats and other mountain animals. Mujib&apos;s sandstone cliffs are an ideal habitat for one of the most beautiful mountain goats in the world, the horned Ibex. Mujib is also well-known for larger carnivores like the regionally scarce striped hyena and Syrian wolf, and for many kinds of birds. As well as resident birds, the reserve is strategically important as a safe stop-over for the huge number of migratory birds that annually fly along the rift valley between Africa and northeast Europe.</string>
+					<key>Img</key>
+					<string>WadiMujibEco.png</string>
+					<key>GetThere</key>
+					<string>Drive about 30km south of the main Hotel Resort area along the coast, until you reach the Mujib Bridge, where a small Nature Reserve office is located. It is advisable to call in advance.
+
+For more information and booking at Wadi Mujib please contact Wild Jordan: Tel +962-6-4616523, Fax +962-6-4633657, tourism@rscn.org.jo</string>
+					<key>Map</key>
+					<string>wadi-Mujib-eco.jpg</string>
+					<key>Latitude</key>
+					<string>31.4634822342</string>
+					<key>Longitude</key>
+					<string>35.5811332344</string>
+				</dict>
+				<key>Aqaba</key>
+				<dict>
+					<key>Description</key>
+					<string>The Gulf of Aqaba is famous for its marine wildlife. As the world&apos;s northernmost coral reef ecosystem it has an average water temperature of 23° Celsius. The absence of stormy weather combined with mild water currents make the Gulf of Aqaba a hospitable environment for the growth of corals and a myriad of other marine life forms. 
+
+The Gulf of Aqaba hosts 110 species of soft corals and 120 species of hard corals. The waters and reefs that fringe the Gulf contain over 1,000 species of fish, corals, crustaceans, and mammals. Nocturnal crustaceans such as crab, shrimp, and lobster appear in search of food in the dark hours of the night. Seasonal visitors to the Gulf of Aqaba include sea turtles, dolphins, sea cows, and the harmless whale shark. 
+
+Aqaba is the only coastal city in Jordan. This beautiful town, surrounded by fascinating colourful mountains and the blue waters of the Red Sea, expands over 27km of shoreline on the Gulf of Aqaba. The town is well-organized and is under continuous development. It has been designated as a Special Economic Zone, with special legislation to protect and improve its business, community, tourism, and environment status.</string>
+					<key>Img</key>
+					<string>aqabaEco.png</string>
+					<key>GetThere</key>
+					<string>By air:
+Royal Wings and Jordan Aviation both offer regular flights from Amman to Aqaba; flying time is about 45 minutes. For more information, contact:
+
+Royal Wings
+Tel: (+962) 6 4875202
+
+Jordan Aviation 
+www.jordanaviation.jo
+
+Tel: (+962) 3 2016588 (Aqaba)
+Tel: (+962) 6 4658866 (Amman,Abdali)
+Tel: (+962) 6 5858322(Amman, Sweifieh)
+By bus: 
+Several companies offer charter bus tours and regular tours between Amman &amp; Aqaba, including: 
+
+JETT
+Tel: (06) 5664146
+ 
+Trust International
+Tel: (06) 5813422 
+
+Alpha Daily Tours 
+Tel: (06) 5855196
+By car or taxi: 
+Aqaba via the Dead Sea road is about 3 - 4 hours drive from Amman, while the drive takes 4 hours along the Desert Highway and 5 hours on the scenic Kings&apos; Highway.
+
+</string>
+					<key>Map</key>
+					<string>aqaba_eco-and-nature.jpg</string>
+					<key>Latitude</key>
+					<string>29.565096</string>
+					<key>Longitude</key>
+					<string>35.007935</string>
+				</dict>
+				<key>Wadi Rum</key>
+				<dict>
+					<key>Description</key>
+					<string>The moonlike landscape of Wadi Rum is unique in the world. The Rum desert is dotted with massive mountains, coloured in shades of red, yellow, and orange. Their hues spill over to colour the sand dunes around the desert and the horizon of its breathtaking panorama. 
+
+Rum&apos;s landscape hosts an ecosystem that contains many rare and endemic plants. Spring reveals hundreds of species of wild flowers, while about 120 bird species have been recorded in the area, including the Griffon Vulture, the Fan-Tailed Raven, Bonelli&apos;s Eagle, and Hume&apos;s Tawny Owl. Baseline surveys also show the existence of the Grey Wolf, Blandford&apos;s Fox, the Sand Cat, and Ibex in the area.
+
+Wadi Rum is a place where you can become one with nature, where visitors are humbled by the towering mountains and overwhelmed by the serenity and quiet ambiance of this magnificent place. One activity that keeps attracting thrill-seekers to Wadi Rum is mountain climbing. Ascents can range from simple hikes to serious mountain climbing more than 900m up sheer granite and sandstone cliffs.</string>
+					<key>Img</key>
+					<string>WadiRumEco.png</string>
+					<key>GetThere</key>
+					<string>Wadi Rum makes a perfect combination before or after a visit to Dana, Petra or Aqaba.
+
+By car or taxi:
+From Amman, head south on the Desert Highway or the more scenic Kings&apos; Highway. Allow around 4 hours for the journey if travelling on the Desert Highway or 6 hours travelling on the Kings&apos; Highway.
+
+From Aqaba, head north, the journey time is less than one hour.
+
+By minibus:
+There are a few minibus rides per day from Aqaba and Wadi Musa (Petra). For further information inquire at the local minibus station.</string>
+					<key>Map</key>
+					<string>wadi-rum-eco.jpg</string>
+					<key>Latitude</key>
+					<string>29.575869</string>
+					<key>Longitude</key>
+					<string>35.300935</string>
+				</dict>
+			</dict>
+			<key>Intro</key>
+			<string>Jordan is a country of outstanding biodiversity, encompassing pine-clad mountains, lush green valleys, wetlands and oases, breathtaking desert landscapes and kaleidoscopic underwater worlds.</string>
+			<key>Image</key>
+			<string>econature3.png</string>
+		</dict>
+		<key>leisure</key>
+		<dict>
+			<key>Locations</key>
+			<dict>
+				<key>The Dead Sea</key>
+				<dict>
+					<key>Description</key>
+					<string>The therapeutic benefits of the Dead Sea have been known to man for at least 2000 years. It has a unique combination of climatic conditions and elements - sun, water, mud and air - which have been proven to offer excellent natural treatments for a range of chronic ailments including dermatological problems such as Psoriasis, Atopic Dermatitis, Vitiligo, and Psoriatic Arthritis, as well as for respiratory conditions such as Asthma, and for many other ailments, including Arthritis, circulatory problems, hypertension, Parkinson&apos;s Disease and some eye problems. It can also have significant health benefits including increasing circulation, healing allergies, and revitalizing skin. 
+
+The Dead Sea waters contain a 31.5% salt concentration and over 20 different minerals. In addition, because it is so low under sea level, the atmosphere contains layers of air that are saturated with oxygen and act as a natural UV filter; this means that one can wallow or sunbathe for longer with less risk of burning or skin cancer. The hotel and spa resorts found at the Dead Sea are world renowned and offer the very best in accommodation, facilities and spa treatments. Floating at the world&apos;s largest natural spa is truly a once in a life time experience. Today, thousands of people from all over the world come to the Dead Sea to rejuvenate, recover, relax and enjoy its natural benefits.
+</string>
+					<key>Img</key>
+					<string>deadseaLeisure.png</string>
+					<key>GetThere</key>
+					<string>The Dead Sea is a popular day trip from Amman and many Jordanians go there on a Friday.
+By Bus:
+Alpha Daily Tours (Tel. (06) 5855196): Organize a full day tour that includes lunch, pool and beach facilities. Departure is from Alpha Terminal 7th Circle in Amman. The bus leaves at 7 am daily to the Dead Sea. 
+
+Dead Sea Hotel Resorts &amp; Spas:
+The Dead Sea is less than an hour&apos;s drive from Amman heading West and is clearly sign-posted throughout the journey.</string>
+					<key>Map</key>
+					<string>deadsea-leisure.jpg</string>
+					<key>Latitude</key>
+					<string>31.7494817</string>
+					<key>Longitude</key>
+					<string>35.5957031</string>
+				</dict>
+				<key>Hammamat Ma&apos;in</key>
+				<dict>
+					<key>Description</key>
+					<string>The mineral hot springs of Ma&apos;in are located 264m below sea level in one of the most breathtaking desert oases in the world. Thousands of cisiting bathers come each year to enjoy the mineral-rich waters of these hyper-thermal waterfalls. These falls originate from winter rainfalls in the highland plains of Jordan and eventually feed the 109 hot and cold springs in the valley. The water is heated to temperatures of up to 63°Celcius by underground lava fissures as it makes its way through the valley before emptying into the Zarqa River.
+
+Situated in this exquisite spot is the 97 room Evason Ma&apos;in Hot Springs &amp; Six Senses Spa offering a wide variety of professional services including mud wraps, hydro-jet baths and showers, underwater massages, mud facials, electrotherapy and cosmetology treatments.</string>
+					<key>Img</key>
+					<string>MaeinLeisure.png</string>
+					<key>GetThere</key>
+					<string>Hammamat Ma&apos;in is located south west of Madaba.</string>
+					<key>Map</key>
+					<string>mai&apos;n-leisure.jpg</string>
+					<key>Latitude</key>
+					<string>31.6082453</string>
+					<key>Longitude</key>
+					<string>35.6104553</string>
+				</dict>
+				<key>Amman</key>
+				<dict>
+					<key>Description</key>
+					<string>A wide range of leisure and wellness opportunities are available for visitors to Amman. Most of the leading hotels have swimming pools, tennis courts and excellent, fully-equipped and professionally-managed spas and fitness centres. 
+A visit to the Hammam is a good way to discover more about the local culture. This is an Arabic-style communal bathhouse, highly popular throughout Jordan and the region since Roman times. The baths consist of three main rooms, a Frigidarium, Tepidarium and Calidarium - the cold, warm and hot rooms respectively. This is a totally invigorating experience for both mind and body. 
+
+The Jordanian people are extremely health-conscious, so it&apos;s hardly surprising that the country&apos;s clinics, medical and research facilities are notable within the region.</string>
+					<key>Img</key>
+					<string>ammanLeisure.png</string>
+					<key>GetThere</key>
+					<string>A large number of international airlines service Amman daily. The airport is 32km south of Amman. A bus service leaves the airport every half an hour to Amman&apos;s Abdali bus station, but the easiest way to get to the city is by taxi. The journey should take about half an hour.</string>
+					<key>Map</key>
+					<string>amman-leisure.jpg</string>
+					<key>Latitude</key>
+					<string>31.963231</string>
+					<key>Longitude</key>
+					<string>35.941086</string>
+				</dict>
+				<key>Aqaba</key>
+				<dict>
+					<key>Description</key>
+					<string>Although Aqaba is famous for its water sports and adventure activities, there are a host of more leisurely activities that can be enjoyed by visitors who wish to relax, rejuvenate or just get away from the pressures of city life. For those who prefer their marine life at arm&apos;s length, glass-bottomed boats are a fun way to enjoy the marvels of the Red Sea.
+
+Aqaba basks in balmy weather nine months of the year, in winter, spring and autumn. Summer is hot, but you can pace your activities and adapt to the climate, slowing down in midday, and reviving in the cool of the evening.
+
+After a long day of relaxing on Aqaba&apos;s sandy shores, there is no better way to refresh than by visiting one of the luxurious spas found in many of Aqaba&apos;s leading hotels. The spas combine Eastern and Western techniques and offer luxurious body treatments, rejuvenating facials, cleansing scrubs and body wraps, using world renowned Dead Sea products.</string>
+					<key>Img</key>
+					<string>AqabaLeisure.png</string>
+					<key>GetThere</key>
+					<string>By air:
+Royal Wings and Jordan Aviation both offer regular flights from Amman to Aqaba; flying time is about 45 minutes. For more information, contact:
+
+Royal Wings
+Tel: (+962) 6 4875202
+
+Jordan Aviation 
+www.jordanaviation.jo
+
+Tel: (+962) 3 2016588 (Aqaba)
+Tel: (+962) 6 4658866 (Amman,Abdali)
+Tel: (+962) 6 5858322(Amman, Sweifieh)
+By bus: 
+Several companies offer charter bus tours and regular tours between Amman &amp; Aqaba, including: 
+
+JETT
+Tel: (06) 5664146
+ 
+Trust International
+Tel: (06) 5813422 
+
+Alpha Daily Tours 
+Tel: (06) 5855196
+By car or taxi: 
+Aqaba via the Dead Sea road is about 3 - 4 hours drive from Amman, while the drive takes 4 hours along the Desert Highway and 5 hours on the scenic Kings&apos; Highway.
+
+</string>
+					<key>Map</key>
+					<string>aqaba-leisure.jpg</string>
+					<key>Latitude</key>
+					<string>29.565096</string>
+					<key>Longitude</key>
+					<string>35.007935</string>
+				</dict>
+			</dict>
+			<key>Intro</key>
+			<string>Jordan has embarked on various projects that feature a combination of both leisure and wellness so as to ensure that visitors enjoy a unique, in-depth, and relaxing experience. This, combined with natural wellness wonders that Jordan has been blessed with, makes the country the ideal leisure and wellness destination. </string>
+			<key>Image</key>
+			<string>Leisurewellness2.png</string>
+		</dict>
+		<key>religion</key>
+		<dict>
+			<key>Locations</key>
+			<dict>
+				<key>Madaba</key>
+				<dict>
+					<key>Description</key>
+					<string>Madaba and its hinterlands were frequently mentioned in the Old Testament as Medeba, especially in the narratives related to Moses and the Exodus, David&apos;s war against the Moabites, Isaiah&apos;s oracle concerning Moab, and King Mesha of Moab&apos;s rebellion against Israel. Some of the finest art of the early Christian centuries - especially elaborate and colourful mosaics - is found in Madaba and the surrounding regions in central Jordan. 
+The feature attraction here is the Madaba Mosaic Map, the oldest known geographic floor mosaic in art history that has been of use in the verification of biblical sites. The map depicts an area from Lebanon in the north to the Nile Delta in the south, from the Mediterranean Sea in the west to the Eastern Desert. It depicts numerous cities and geographical features of the region, including Jerusalem and its gates, the Dead Sea and several other biblical Christian sites.
+</string>
+					<key>Img</key>
+					<string>madabaReligion.png</string>
+					<key>GetThere</key>
+					<string>By car or taxi from Amman:
+Take the Airport Highway south of Amman. After about 20km, turn westward following the signs. Madaba is 45 minutes away from Amman.
+
+By Bus: 
+Alpha Daily Tours 
+Tel: (06) 5855196 - Organize a half day tour in the afternoon, Tour includes entrance fees and an English speaking guide. Departure is from the Alpha Terminal at the 7th circle in Amman. The bus leaves at 2pm. 
+
+By Service Taxi:
+Take a taxi from Al-Abdali station. The taxi trips are not scheduled; the service taxis start their trips as soon as they have a full passenger load.
+</string>
+					<key>Map</key>
+					<string>madaba-religoin.jpg</string>
+					<key>Latitude</key>
+					<string>31.721907</string>
+					<key>Longitude</key>
+					<string>35.792727</string>
+				</dict>
+				<key>Mount Nebo</key>
+				<dict>
+					<key>Description</key>
+					<string>Mount Nebo&apos;s first church was built in the 4th century AD to mark this holy site, where Moses first surveyed the Promised Land. The Serpentine Cross, which stands outside the sanctuary, is symbolic of the brass serpent carried by Moses into the desert and the cross upon which Jesus was crucified.
+According to Jewish and Christian tradition, Moses was buried on this mountain by God himself, and his final resting place is unknown. Scholars continue to dispute whether the mountain currently known as Nebo is the same as the mountain referred to in the Torah. Islamic belief holds that Musa (Moses) was buried not on the mountain but a few kilometres to the west, somewhere beyond the River Jordan.</string>
+					<key>Img</key>
+					<string>MountNeboReligion.png</string>
+					<key>GetThere</key>
+					<string>Take the Airport Highway directly to Madaba. Road signs will lead you westward from Madaba to Mount Nebo which is about 10 minutes away.</string>
+					<key>Map</key>
+					<string>mount-nebo-religion.jpg</string>
+					<key>Latitude</key>
+					<string>31.767882</string>
+					<key>Longitude</key>
+					<string>35.724835</string>
+				</dict>
+				<key>Bethany Beyond the Jordan</key>
+				<dict>
+					<key>Description</key>
+					<string>(The Baptism Site)
+
+The Bethany area sites formed part of the early Christian pilgrimage routes between Jerusalem, Mount Nebo and the segment of the River Jordan where Jesus is believed to have been baptized by John the Baptist. The area is also associated with the biblical account of the Prophet Elijah&apos;s ascent to heaven in a whirlwind on a chariot of fire.
+
+Stunning archaeological discoveries since 1996 reveal pottery, coins and architectural remains from a 5th century Byzantine monastery. Also identified is the cave where John the Baptist lived, according to numerous Byzantine pilgrims&apos; texts. The cave was turned into a church and a freshwater channel running from the cave, purportedly used by John for baptizing, can still be visited today. The late Pope John Paul II visited the area in 2000, while Pope Benedict XVI visited the site in 2009.</string>
+					<key>Img</key>
+					<string>BethanyReligion.png</string>
+					<key>GetThere</key>
+					<string>The Dead Sea is a popular day trip from Amman and many Jordanians go there on a Friday.
+
+By Bus:
+
+Alpha Daily Tours (Tel. (06) 5855196):
+Organize a full day tour that includes lunch, pool and beach facilities. Departure is from Alpha Terminal 7th Circle in Amman. The bus leaves at 7 am daily to the Dead Sea. 
+
+Dead Sea Hotel Resorts &amp; Spas:
+The Dead Sea is less than an hour&apos;s drive from Amman heading West and is clearly sign-posted throughout the journey.</string>
+					<key>Map</key>
+					<string>bethany-religion.jpg</string>
+					<key>Latitude</key>
+					<string>31.837061</string>
+					<key>Longitude</key>
+					<string>35.548496</string>
+				</dict>
+				<key>Um Al-Rasas</key>
+				<dict>
+					<key>Description</key>
+					<string>Umm Ar-Rasas was a Roman garrison town, that later flourished as a Christian city under Islamic rule. The city is now mostly in ruins, but still includes several structures, including churches, a courtyard with a well, staircases and stone arches that have all been excavated and restored. The main attraction lies outside the city walls within the Church of St. Stephen, where a perfectly-preserved mosaic floor laid down in 718 AD is found. The mosaics portray 15 major cities of the Holy Land from both east and west of the River Jordan. 
+
+Umm Ar-Rasas is a UNESCO World Heritage Site.</string>
+					<key>Img</key>
+					<string>UmAlRasasReligion.png</string>
+					<key>GetThere</key>
+					<string>Continuing on the Kings&apos; Highway, about 45 minutes after Madaba and turn right at Libb, you eventually arrive at Mukawir.</string>
+					<key>Map</key>
+					<string>umm-arassas-religion.jpg</string>
+					<key>Latitude</key>
+					<string>31.500007</string>
+					<key>Longitude</key>
+					<string>35.920014</string>
+				</dict>
+				<key>Mukawir</key>
+				<dict>
+					<key>Description</key>
+					<string>Like Masada on the opposite side of the Dead Sea, the biblical Machaerus was the scene of a Roman siege during the first Jewish revolt against Rome but may be best known as the site of John the Baptist&apos;s execution at the orders of Herod Antipas, following the infamous dance of Salome, a story recorded in the Gospels of Matthew and Luke. The site is easily reached by car from Madaba. Mukawir is also a designated pilgrimage site.</string>
+					<key>Img</key>
+					<string>MukawirReligion.png</string>
+					<key>GetThere</key>
+					<string>Mukawir is an hour away and about 45 kms, away from Madaba on the Kings&apos; Highway.</string>
+					<key>Map</key>
+					<string>mukawir-religion.jpg</string>
+					<key>Latitude</key>
+					<string>31.563179</string>
+					<key>Longitude</key>
+					<string>35.638103</string>
+				</dict>
+				<key>Anjara</key>
+				<dict>
+					<key>Description</key>
+					<string>It is believed that Jesus Christ, his disciples, and the Virgin Mary, passed through Anjara once and rested in a cave there during a journey between Jerusalem and Galilee. The cave in Anjara has long been a holy place for pilgrims and has now been commemorated with a modern shrine, the Church of Our Lady of the Mountain. The cave was also designated by the Catholic Churches of the Middle East as one of the five pilgrimage sites for the year 2000.</string>
+					<key>Img</key>
+					<string>AnjaraReligion.png</string>
+					<key>GetThere</key>
+					<string>Take the Jerash Irbid Highway north of Amman. At the Entrance to Jerash, just before the ruins, follow the signs indicating the road westward to Anjara. Anjara is 30 minutes away from Jerash.</string>
+					<key>Map</key>
+					<string>anjara-religion.jpg</string>
+					<key>Latitude</key>
+					<string>32.305633</string>
+					<key>Longitude</key>
+					<string>35.755520</string>
+				</dict>
+			</dict>
+			<key>Intro</key>
+			<string>The Hashemite Kingdom of Jordan echoes with stories recorded in the Holy Bible of Abraham, Moses, Paul, Elijah, John the Baptist, Jesus Christ and many other biblical figures. </string>
+			<key>Image</key>
+			<string>religionfaith3.png</string>
+		</dict>
+		<key>events</key>
+		<dict>
+			<key>Locations</key>
+			<dict>
+				<key>Amman</key>
+				<dict>
+					<key>Description</key>
+					<string>Today, the city offers the best and most modern comprehensive conference and meetings facilities within the region. Almost all of the major hotels in Amman offer extensive facilities with state-of-the-art equipment, as well as experienced and dedicated staff that are skilled at arranging any type of event from huge conferences and banquets to exhibitions and incentives.
+
+The two main convention centres in Amman are the Zara Expo, which offers approximately 3,000 sq.m. of high quality exhibition space and 2,500 sq.m. of meeting space, and the Amman Exhibitions Park with 100,000 sq.m. of exhibition and conference area.
+
+Most 5 star Hotels in Amman offer facilities for meetings, as well as small to medium-scale exhibitions. These hotels include: the Four Seasons, Le Meridien, InterContinental, Grand Hyatt, Radisson SAS, Crowne Plaza, Kempinski, Amman Marriott, Le Royal, Sheraton Amman, Regency Palace, and the Holiday Inn, totalling approximately 4000 5 star rooms.
+
+Events can also take place at the Citadel, the Royal Convention Centre, the Royal Cultural Centre, the Arena, and the Royal Cultural Palace. </string>
+					<key>Img</key>
+					<string>AmmanMeeting.png</string>
+					<key>GetThere</key>
+					<string>A large number of international airlines service Amman daily. The airport is 32km south of Amman. A bus service leaves the airport every half an hour to Amman&apos;s Abdali bus station, but the easiest way to get to the city is by taxi. The journey should take about half an hour.</string>
+					<key>Map</key>
+					<string>amman-events.jpg</string>
+					<key>Latitude</key>
+					<string>31.963231</string>
+					<key>Longitude</key>
+					<string>35.941086</string>
+				</dict>
+				<key>The Dead Sea</key>
+				<dict>
+					<key>Description</key>
+					<string>The Dead Sea is home to the King Hussein Bin Talal Convention Centre (KHBTCC), which can hold over 3,000 people while offering over 1,200 guest rooms. The Convention Centre caters to large corporate luncheons and events, launches, gala dinners, cocktail receptions, exhibitions and workshops. Some of the centre&apos;s annual events include the World Economic Forum, Jordan Travel Mart and the International Monetary Fund.
+Some of Jordan&apos;s most impressive hotels and resorts are found less than a five minute drive away from the KHBTCC. These include the Movenpick Resort &amp; Spa Hotel, the Jordan Valley Marriott Resort &amp; Spa Hotel, the Kempinski Ishtar Hotel, and the Holiday Inn Resort Dead Sea, totalling approximately 1,000 5 star rooms with a predicted increase of 6,000 rooms by 2012.</string>
+					<key>Img</key>
+					<string>deadseaMeeting.png</string>
+					<key>GetThere</key>
+					<string>The Dead Sea is a popular day trip from Amman and many Jordanians go there on a Friday.
+By Bus:
+Alpha Daily Tours (Tel. (06) 5855196): Organize a full day tour that includes lunch, pool and beach facilities. Departure is from Alpha Terminal 7th Circle in Amman. The bus leaves at 7 am daily to the Dead Sea. 
+Dead Sea Hotel Resorts &amp; Spas:
+The Dead Sea is less than an hour&apos;s drive from Amman heading West and is clearly sign-posted throughout the journey.</string>
+					<key>Map</key>
+					<string>Deadsea-events.jpg</string>
+					<key>Latitude</key>
+					<string>31.7494817</string>
+					<key>Longitude</key>
+					<string>35.5957031</string>
+				</dict>
+				<key>Petra</key>
+				<dict>
+					<key>Description</key>
+					<string>Petra is an ideal location for holding business meetings. Its history as one of the greatest commercial capitals in the ancient world is nothing short of inspirational. Imagine hosting your coveted business partners and/or high achievers to a post-meeting, candle-lit dinner under the towering façade of Al-Khazneh, the Treasury, or taking them high above this spectacular site in a hot air balloon. This is a place where enduring memories are made.
+
+Most of Petra&apos;s top hotels offer excellent business and meetings facilities and will assist with the arrangements for incentive activities. These include the Petra Marriott Hotel, Movenpick Resort Petra Hotel, Nabataean Castle Resort, Grand View Hotel, and the Crowne Plaza Resort Hotel Petra Forum, totalling approximately 800 5 star rooms.</string>
+					<key>Img</key>
+					<string>petraMeeting.png</string>
+					<key>GetThere</key>
+					<string>The best time to see Petra is in the early morning or late afternoon, so plan for an early start or arrive the evening before and stay in one of the comfortable hotels near the site.
+
+By bus:
+- Alpha Daily Tours (Tel. (06) 5855196), Organize a full day tour that includes entrance fees, horse ride, and an English speaking guide. Departure is from Alpha Terminal (Gulf Hotel) in Amman. The bus leaves at 7.30 am daily to Petra. 
+
+- JETT (Tel. (06) 5664146), Operates a modern fleet of air-conditioned coaches from Amman to Wadi Musa (Petra). Departure is from Abdali Station in Amman. The bus leaves at 6:30 daily to Petra and 4:00 pm to Amman from Petra.
+
+By car:
+Petra is a 3-hour drive from Amman on the modern Desert Highway, or 5 hours on the more scenic Kings&apos; Highway. Leave Amman from the 7th Circle and follow the brown signs, which are designed for tourists.
+
+By taxi:
+You can hire a taxi in Amman to take you to Wadi Musa (Petra). The fare should be approximately 50 Jordanian Dinars; however, be sure to agree on the price with the driver before setting off.
+
+Other Destinations:
+Combine your visit to Petra with a trip to Dana, a bird&apos;s nest-like mountain village in the fascinating nature reserve (on the way to Petra, best seen the day before or following your visit to Petra), or take in the unspoiled desert vastness of Wadi Rum - only an hour&apos;s drive south of Petra.
+
+By bus:
+- Alpha Daily Tours (Tel. (06) 5855196), Organize a full day tour that includes entrance fees, horse ride, and an English speaking guide. Departure is from Alpha Terminal (Gulf Hotel) in Amman. The bus leaves at 7.30 am daily to Petra. 
+- JETT (Tel. (06) 5664146), Operates a modern fleet of air-conditioned coaches from Amman to Wadi Musa (Petra). Departure is from Abdali Station in Amman. The bus leaves at 6:30 daily to Petra and 4:00 pm to Amman from Petra.
+
+By car:
+Petra is a 3-hour drive from Amman on the modern Desert Highway, or 5 hours on the more scenic Kings&apos; Highway. Leave Amman from the 7th Circle and follow the brown signs, which are designed for tourists.
+
+By taxi:
+You can hire a taxi in Amman to take you to Wadi Musa (Petra). The fare should be approximately 50 Jordanian Dinars; however, be sure to agree on the price with the driver before setting off.
+
+Other Destinations:
+Combine your visit to Petra with a trip to Dana, a bird&apos;s nest-like mountain village in the fascinating nature reserve (on the way to Petra, best seen the day before or following your visit to Petra), or take in the unspoiled desert vastness of Wadi Rum - only an hour&apos;s drive south of Petra.
+
+</string>
+					<key>Map</key>
+					<string>petra-events.jpg</string>
+					<key>Latitude</key>
+					<string>30.3248323</string>
+					<key>Longitude</key>
+					<string>35.4680729</string>
+				</dict>
+				<key>Aqaba</key>
+				<dict>
+					<key>Description</key>
+					<string>Aqaba and its environs provide plenty of scope for creative and lively incentives. Primarily, there is the Red Sea itself, which offers an underwater world of diving experiences. Dive boats and full equipment can he hired for one-day or overnight trips during which delegates have the opportunity to explore the spectacular coral reefs, discover the delights of wreck diving and experience the strange and wonderful world of Aqaba&apos;s undersea nightlife. There are plenty of challenging activities topside too, with sailing, windsurfing, waterskiing, and parascending.
+
+Aqaba is also an ideal base for incentive activities such as 4x4 safaris, horse riding, camel trekking, hiking, climbing and the many other desert experiences, including hot air ballooning, that can easily be organized in Wadi Rum, which is just a short drive away.
+
+Aqaba offers a variety of Five Star Hotels such as the Movenpick Resort, the InterContinental Hotel, Radisson SAS, and the Kempinski, totalling 1,700 five-star hotel rooms with a predicted increase of over 4,000 rooms by 2012, with developments such as the newly completed Tala Bay followed by Ayla and Saraya. </string>
+					<key>Img</key>
+					<string>aqabaMeeting.png</string>
+					<key>GetThere</key>
+					<string>By air:
+Royal Wings and Jordan Aviation both offer regular flights from Amman to Aqaba; flying time is about 45 minutes. For more information, contact:
+
+Royal Wings
+Tel: (+962) 6 4875202
+
+Jordan Aviation 
+www.jordanaviation.jo
+
+Tel: (+962) 3 2016588 (Aqaba)
+Tel: (+962) 6 4658866 (Amman,Abdali)
+Tel: (+962) 6 5858322(Amman, Sweifieh)
+By bus: 
+Several companies offer charter bus tours and regular tours between Amman &amp; Aqaba, including: 
+
+JETT
+Tel: (06) 5664146
+ 
+Trust International
+Tel: (06) 5813422 
+
+Alpha Daily Tours 
+Tel: (06) 5855196
+By car or taxi: 
+Aqaba via the Dead Sea road is about 3 - 4 hours drive from Amman, while the drive takes 4 hours along the Desert Highway and 5 hours on the scenic Kings&apos; Highway.
+
+</string>
+					<key>Map</key>
+					<string>aqaba-events.jpg</string>
+					<key>Latitude</key>
+					<string>29.565096</string>
+					<key>Longitude</key>
+					<string>35.007935</string>
+				</dict>
+			</dict>
+			<key>Intro</key>
+			<string>Jordanis MICE (Meetings, Incentives, Conventions &amp; Events) industry has come of age. It understands the particular demands of the meetings and incentives market and strives to continuously exceed expectations. </string>
+			<key>Image</key>
+			<string>ConferencesEvents.png</string>
+		</dict>
+		<key>history</key>
+		<dict>
+			<key>Locations</key>
+			<dict>
+				<key>Amman</key>
+				<dict>
+					<key>Description</key>
+					<string>A sprawling city spread over 19 hills, or &apos;jebels&apos;, Amman is the modern as well as the ancient capital of the Hashemite Kingdom of Jordan. Known as Rabbath-Ammon during the Iron Age and later as Philadelphia, the ancient city that was once part of the Decapolis League, now boasts a population of around 2.5 million.
+
+Amman, often referred to as the white city due to its low size canvas of stone houses, offers a variety of historical sites.
+Towering above Amman,  the site that is known as the Citadel is now subject to numerous excavations that have revealed remains from the Neolithic period, as well as from the Hellenistic and late Roman to Arab Islamic Ages. It includes many structures such as the Temple of Hercules, the Umayyad Palace, and the Byzantine Church. At the foot of the Citadel lies the 6,000 seat Roman Theatre, which is a deep-sided bowl carved into the hill and still used for cultural events. Another newly-restored theatre is the 500-seat Odeon which is used for concerts. The three museums found in the area offer a glimpse of history and culture: the Jordan Archaeological Museum, the Folklore Museum, and the Museum of Popular Traditions.</string>
+					<key>Img</key>
+					<string>ammanHistory.png</string>
+					<key>GetThere</key>
+					<string>A large number of international airlines service Amman daily. The airport is 32km south of Amman. A bus service leaves the airport every half an hour to Amman&apos;s Abdali bus station, but the easiest way to get to the city is by taxi. The journey should take about half an hour.</string>
+					<key>Map</key>
+					<string>amman-history.jpg</string>
+					<key>Latitude</key>
+					<string>31.963231</string>
+					<key>Longitude</key>
+					<string>35.941086</string>
+				</dict>
+				<key>Petra</key>
+				<dict>
+					<key>Description</key>
+					<string>Petra, the world wonder, is without a doubt Jordan&apos;s most valuable treasure and greatest tourist attraction. It is a vast, unique city, carved into the sheer rock face by the Nabataeans - an industrious Arab people who settled there more than 2,000 years ago, turning it into an important junction for the silk, spice and other trade routes that linked China, India and southern Arabia with Egypt, Syria, Greece and Rome. 
+
+The Treasury at Petra is a massive facade, 30m wide and 43m high, carved out of the sheer, dusky pink, rock face and dwarfing everything around it. There are hundreds of elaborate rock-cut tombs with intricate carvings - unlike the houses, which were destroyed mostly by earthquakes, the tombs were carved to last throughout the afterlife and 500 have survived, empty but bewitching as you file past their dark openings. Here also is a massive Nabataean-built, Roman-style theatre that could seat 3,000 people. There are obelisks, temples, sacrificial altars and colonnaded streets, and high above, overlooking the valley, is the impressive Ad-Deir (the Monastery) - a flight of 800 rock-cut steps takes you there. 
+
+Petra is one of the new 7 Wonders of the World, and is also a UNESCO World Heritage Site.</string>
+					<key>Img</key>
+					<string>petraHistory.png</string>
+					<key>GetThere</key>
+					<string>The best time to see Petra is in the early morning or late afternoon, so plan for an early start or arrive the evening before and stay in one of the comfortable hotels near the site.
+
+
+By bus:
+
+- Alpha Daily Tours (Tel. (06) 5855196), Organize a full day tour that includes entrance fees, horse ride, and an English speaking guide. Departure is from Alpha Terminal (Gulf Hotel) in Amman. The bus leaves at 7.30 am daily to Petra. 
+
+- JETT (Tel. (06) 5664146), Operates a modern fleet of air-conditioned coaches from Amman to Wadi Musa (Petra). Departure is from Abdali Station in Amman. The bus leaves at 6:30 daily to Petra and 4:00 pm to Amman from Petra.
+
+
+By car:
+
+Petra is a 3-hour drive from Amman on the modern Desert Highway, or 5 hours on the more scenic Kings&apos; Highway. Leave Amman from the 7th Circle and follow the brown signs, which are designed for tourists.
+
+
+By taxi:
+
+You can hire a taxi in Amman to take you to Wadi Musa (Petra). The fare should be approximately 50 Jordanian Dinars; however, be sure to agree on the price with the driver before setting off.
+
+
+Other Destinations:
+
+Combine your visit to Petra with a trip to Dana, a bird&apos;s nest-like mountain village in the fascinating nature reserve (on the way to Petra, best seen the day before or following your visit to Petra), or take in the unspoiled desert vastness of Wadi Rum - only an hour&apos;s drive south of Petra.</string>
+					<key>Map</key>
+					<string>petra---history.jpg</string>
+					<key>Latitude</key>
+					<string>30.3248323</string>
+					<key>Longitude</key>
+					<string>35.4680729</string>
+				</dict>
+				<key>Jerash</key>
+				<dict>
+					<key>Description</key>
+					<string>Jerash lies on a plain surrounded by hilly wooded areas and fertile basins. Conquered by General Pompey in 63 BC, it came under Roman rule and was one of the ten great Roman cities of the Decapolis League. The city&apos;s golden age came under Roman rule, during which time it was known as Gerasa, and the site is now generally acknowledged to be one of the best-preserved Roman provincial towns in the world. Hidden for centuries in sand before being excavated and restored over the past 70 years, Jerash reveals a fine example of the grand, formal provincial Roman urbanism that is found throughout the Middle East, comprising paved and colonnaded streets, soaring hilltop temples, handsome theatres, spacious public squares and plazas, baths, fountains and city walls pierced by towers and gates.
+
+The main attractions in Jerash are, not surprisingly, the ruins themselves. Walk through Hadrian&apos;s Arch at the Southern gate to the city, then explore the massive arena, called the Hippodrome, take a walk through the colonnaded street, check out the Cathedral and the Nymphaeum, and enjoy the North and South theatres with their ascending rows of seats that housed city councils of old and now hosts annual concerts.
+</string>
+					<key>Img</key>
+					<string>jerashHistory.png</string>
+					<key>GetThere</key>
+					<string>The site now lies on a modern highway that links Amman with the northern boundary of the Kingdom towards Syria; the drive takes 40 minutes from Amman at a leisurely speed. As you approach, it is after a corner of the highway that you are suddenly faced with a wonderful view of the ruins, with the Triumphal Arch in the foreground. On the other side of the highway lies the modern town of Jerash.</string>
+					<key>Map</key>
+					<string>jerash-history.jpg</string>
+					<key>Latitude</key>
+					<string>32.276321</string>
+					<key>Longitude</key>
+					<string>35.905294</string>
+				</dict>
+				<key>As-Salt</key>
+				<dict>
+					<key>Description</key>
+					<string>An ancient town, As-Salt was once the most important settlement in the area between the Jordan Valley and the Eastern Eesert. By the early 19th century, As-Salt was a prosperous frontier town on the edge of Ottoman Empire and the desert. Useful to all, it was ruled by none, and the people of As-Salt were said to be “free from taxation of any kind.” The town was also the centre of lucrative trading between the region and urban centres in Palestine.
+
+Tightly built on a cluster of three hills, As-Salt has several places of interest, including splendid yellow sandstone buildings that incorporate a variety of local and European styles, Roman tombs on the outskirts of town, and the citadel. There is also a small museum and a handicrafts school where you can admire the traditional skills of ceramics, weaving, silk-screen printing and dyeing.
+
+As-Salt&apos;s Archaeological &amp; Folklore Museum displays artefacts dating back to the Chalcolithic period to the Islamic era as well as other items relating to the history of the area. In the folklore museum there is a good presentation of Bedouin and traditional costumes and everyday folkloric items.
+
+As-Salt is just a half hour drive from the city of Amman.</string>
+					<key>Img</key>
+					<string>saltHistory.png</string>
+					<key>GetThere</key>
+					<string>By car or taxi from Amman:
+Travel for about 20 minutes (20km) to the northwest of Amman, following the signs. 
+
+By Service Taxi:
+Take a taxi from Al-Abdali station. The taxi trips are not scheduled; the service taxis start their trips as soon as they have a full passenger load.</string>
+					<key>Map</key>
+					<string>salt-history.jpg</string>
+					<key>Latitude</key>
+					<string>32.044896</string>
+					<key>Longitude</key>
+					<string>35.723591</string>
+				</dict>
+				<key>Madaba</key>
+				<dict>
+					<key>Description</key>
+					<string>Best known for its spectacular Byzantine and Umayyad mosaics, Madaba is home to the famous 6th century Mosaic Map of Jerusalem and the Holy Land. With two million pieces of vividly coloured local stone, it depicts hills and valleys, villages, and towns as far as the Nile Delta. The Madaba Mosaic Map covers the floor of the Greek Orthodox Church of St. George, which is located northwest of the city centre. The church was built in 1896 AD, over the remains of a much earlier 6th century Byzantine church. The mosaic panel enclosing the Map was originally around 15.6 X 6m, 94 sq.m., only about a quarter of which is preserved.
+
+Also to explore in Madaba are the Madaba Archaeological Museum and the Madaba Folklore Museum.</string>
+					<key>Img</key>
+					<string>MadabaHistory.png</string>
+					<key>GetThere</key>
+					<string>By car or taxi from Amman:
+
+Take the Airport Highway south of Amman. After about 20km, turn westward following the signs. Madaba is 45 minutes away from Amman.
+
+
+By Bus: 
+
+Alpha Daily Tours 
+Tel: (06) 5855196 - Organize a half day tour in the afternoon, Tour includes entrance fees and an English speaking guide. Departure is from the Alpha Terminal at the 7th circle in Amman. The bus leaves at 2pm. 
+
+
+By Service Taxi:
+
+Take a taxi from Al-Abdali station. The taxi trips are not scheduled; the service taxis start their trips as soon as they have a full passenger load.
+</string>
+					<key>Map</key>
+					<string>madaba-history-and-culture.jpg</string>
+					<key>Latitude</key>
+					<string>31.721907</string>
+					<key>Longitude</key>
+					<string>35.792727</string>
+				</dict>
+				<key>Mount Nebo</key>
+				<dict>
+					<key>Description</key>
+					<string>Six tombs from different periods have been found hollowed out of the rock beneath the mosaic-covered floor of the Moses Memorial Church at Mount Nebo. In the present presbytery you can see remnants of mosaics, the earliest of which is a panel with a braided cross. 
+
+The Serpentine Cross, which stands just outside the sanctuary, is symbolic of the brass serpent taken by Moses into the desert and the cross upon which Jesus was crucified. It is one of the most revered holy sites in Jordan and the place where Moses was buried. During his visit to Jordan in 2001, the Late Pope John Paul II held a sermon there that was attended by some 20,000 faithful.</string>
+					<key>Img</key>
+					<string>MountNeboHistory.png</string>
+					<key>GetThere</key>
+					<string>Take the Airport Highway directly to Madaba. Road signs will lead you westward from Madaba to Mount Nebo which is about 10 minutes away.</string>
+					<key>Map</key>
+					<string>nebo-history.jpg</string>
+					<key>Latitude</key>
+					<string>31.767882</string>
+					<key>Longitude</key>
+					<string>35.724835</string>
+				</dict>
+				<key>Umm Ar-Rasas</key>
+				<dict>
+					<key>Description</key>
+					<string>The rectangular walled city is mostly in ruins but does still include several buildings, as well as four churches and some beautiful stone arches. The main attraction is outside the city walls within the Church of St. Stephen, which contains a very large, perfectly-preserved mosaic floor laid down in 718 AD. It portrays fifteen major cities of the Holy Land from both east and west of the River Jordan. This magnificent mosaic is second only to Madaba&apos;s world famous mosaic map of Jerusalem and the Holy Land.
+ 
+Umm Ar- Rasas is a UNESCO World Heritage Site. </string>
+					<key>Img</key>
+					<string>UmAlRasasHistory.png</string>
+					<key>GetThere</key>
+					<string>Continuing on the Kings&apos; Highway, about 45 minutes after Madaba and turn right at Libb, you eventually arrive at Mukawir.</string>
+					<key>Map</key>
+					<string>umm-alrasas-history.jpg</string>
+					<key>Latitude</key>
+					<string>31.500007</string>
+					<key>Longitude</key>
+					<string>35.920014</string>
+				</dict>
+				<key>Mukawir</key>
+				<dict>
+					<key>Description</key>
+					<string>The 1st century AD Roman-Jewish historian, Josephus, identified the awe-inspiring site of Machaerus (modern day Mukawir) as the hilltop stronghold of Herod the Great. Upon Herod&apos;s death, his son, Herod Antipas (who was the ruler of the region during the life of Jesus Christ) inherited the fortress and from there ordered John the Baptist to be beheaded after Salome&apos;s fateful dance of the seven veils. </string>
+					<key>Img</key>
+					<string>MukawirHistory.png</string>
+					<key>GetThere</key>
+					<string>Continuing on the Kings&apos; Highway, about 45 minutes after Madaba and turn right at Libb, you eventually arrive at Mukawir.</string>
+					<key>Map</key>
+					<string>mukawir-history-and-culture.jpg</string>
+					<key>Latitude</key>
+					<string>31.563179</string>
+					<key>Longitude</key>
+					<string>35.638103</string>
+				</dict>
+				<key>The Jordan Valley</key>
+				<dict>
+					<key>Description</key>
+					<string>The therapeutic water of the Dead Sea, combined with the valley&apos;s fertile land and warm climate, have attracted people to live, hunt and farm in the area since the Stone Age. Over 200 archaeological sites have been discovered, and there is believed to be many more. </string>
+					<key>Img</key>
+					<string>JordanValleyHistory.png</string>
+					<key>GetThere</key>
+					<string>The Dead Sea is a popular day trip from Amman and many Jordanians go there on a Friday.
+
+By Bus:
+
+Alpha Daily Tours (Tel. (06) 5855196): Organize a full day tour that includes lunch, pool and beach facilities. Departure is from Alpha Terminal 7th Circle in Amman. The bus leaves at 7 am daily to the Dead Sea. Click here for more information.
+Dead Sea Hotel Resorts &amp; Spas:
+The Dead Sea is less than an hour&apos;s drive from Amman heading West and is clearly sign-posted throughout the journey.
+
+By Bus:
+
+Alpha Daily Tours (Tel. (06) 5855196): Organize a full day tour that includes lunch, pool and beach facilities. Departure is from Alpha Terminal 7th Circle in Amman. The bus leaves at 7 am daily to the Dead Sea. 
+
+Dead Sea Hotel Resorts &amp; Spas:
+The Dead Sea is less than an hour&apos;s drive from Amman heading West and is clearly sign-posted throughout the journey.
+By Bus:
+
+Alpha Daily Tours (Tel. (06) 5855196): Organize a full day tour that includes lunch, pool and beach facilities. Departure is from Alpha Terminal 7th Circle in Amman. The bus leaves at 7 am daily to the Dead Sea. Click here for more information.
+Dead Sea Hotel Resorts &amp; Spas:
+The Dead Sea is less than an hour&apos;s drive from Amman heading West and is clearly sign-posted throughout the journey.
+
+By Bus:
+
+Alpha Daily Tours (Tel. (06) 5855196): Organize a full day tour that includes lunch, pool and beach facilities. Departure is from Alpha Terminal 7th Circle in Amman. The bus leaves at 7 am daily to the Dead Sea. 
+
+Dead Sea Hotel Resorts &amp; Spas:
+The Dead Sea is less than an hour&apos;s drive from Amman heading West and is clearly sign-posted throughout the journey.
+
+By Bus:
+
+Alpha Daily Tours (Tel. (06) 5855196): Organize a full day tour that includes lunch, pool and beach facilities. Departure is from Alpha Terminal 7th Circle in Amman. The bus leaves at 7 am daily to the Dead Sea. Click here for more information.
+Dead Sea Hotel Resorts &amp; Spas:
+The Dead Sea is less than an hour&apos;s drive from Amman heading West and is clearly sign-posted throughout the journey.</string>
+					<key>Map</key>
+					<string>jordan-valley.jpg</string>
+					<key>Latitude</key>
+					<string>31.7494817</string>
+					<key>Longitude</key>
+					<string>35.5957031</string>
+				</dict>
+				<key>Karak</key>
+				<dict>
+					<key>Description</key>
+					<string>An ancient Crusader stronghold, Karak sits at 900m above sea level and lies inside the walls of the old city. The city today is home to around 170,000 people and continues to boast a number of restored 19th century Ottoman buildings, restaurants, places to stay, and the like. But it is undoubtedly Karak Castle that dominates. 
+
+The town is built on a triangular plateau, with the castle at its narrow southern tip. While the castle we see today essentially dates back to the 12th century, Karak has been a fortress since biblical times. Karak Castle is a dark maze of stone-vaulted halls and endless passageways. The best preserved are underground and can be reached via a massive door. More imposing than beautiful, the castle is nevertheless an impressive insight into the architectural military genius of the Crusaders.
+
+The castle is some 220m long, 125m wide at the north end, and 40m wide at the southern end where a narrow valley deepened by a ditch separates it from the adjoining and much higher hill - once Saladin&apos;s favourite artillery position. Throughout the castle, dark and roughly-shaped Crusader masonry is easy to discern from the finely-crafted blocks of lighter and softer limestone used in later Arab work.
+
+The two most impressive towers (&apos;burj&apos; in Arabic) of Karak are Burj Al-Banawi, a round tower bearing a monumental inscription adorned by two panthers, the emblem of Sultan Baybars; and Burj As-Sa&apos;ub, a small fortress in its own right; and Burj Az-Zahir Baybars (or Baybars Tower), a massive structure resembling the castle keep.
+
+Karak is still a largely Christian town, and many of today&apos;s Christian families trace their origins back to the Byzantines.
+
+The town is built on a triangular plateau, with the castle at its narrow southern tip. While the castle we see today essentially dates back to the 12th century, Karak has been a fortress since biblical times. Karak Castle is a dark maze of stone-vaulted halls and endless passageways. The best preserved are underground and can be reached via a massive door. More imposing than beautiful, the castle is nevertheless an impressive insight into the architectural military genius of the Crusaders.
+
+The castle is some 220m long, 125m wide at the north end, and 40m wide at the southern end where a narrow valley deepened by a ditch separates it from the adjoining and much higher hill - once Saladin&apos;s favourite artillery position. Throughout the castle, dark and roughly-shaped Crusader masonry is easy to discern from the finely-crafted blocks of lighter and softer limestone used in later Arab work.
+
+The two most impressive towers (‘burj&apos; in Arabic) of Karak are Burj Al-Banawi, a round tower bearing a monumental inscription adorned by two panthers, the emblem of Sultan Baybars; and Burj As-Sa&apos;ub, a small fortress in its own right; and Burj Az-Zahir Baybars (or Baybars Tower), a massive structure resembling the castle keep.
+
+Karak is still a largely Christian town, and many of today&apos;s Christian families trace their origins back to the Byzantines.
+</string>
+					<key>Img</key>
+					<string>KarakHistory.png</string>
+					<key>GetThere</key>
+					<string>By car or taxi from Amman:
+From Amman, head south. You can either take the Desert Highway (approximately 130kms from Amman/2 hours drive) or you can take the more scenic King&apos;s highway or Dead Sea road.
+
+By Service Taxi:
+Take a taxi from Al-Abdali station. The taxi trips are not scheduled - the service taxis start their trips as soon as they have a full passenger load.</string>
+					<key>Map</key>
+					<string>karak-castle.jpg</string>
+					<key>Latitude</key>
+					<string>31.144656</string>
+					<key>Longitude</key>
+					<string>35.730286</string>
+				</dict>
+				<key>Aqaba</key>
+				<dict>
+					<key>Description</key>
+					<string>Aqaba&apos;s long history dates back to pre-biblical times, when it was known as Ayla. According to the Bible&apos;s Old Testament, King Solomon built a naval base at Ezion Geber, just 3km from where the modern town of Aqaba stands today.
+
+From 106 AD, the Romans, who ruled the region from their base in Syria, also used Ayla as their trading sea port, until it came under the control of the Byzantine Empire in the early 4th century. The Byzantines appointed Christian Arabs from south Arabia to rule the port city on their behalf.
+
+The Middle Ages were turbulent years for Ayla. In the 12th century, the Crusaders captured the city. They built a fort on Far&apos;un Island, known then as Ile de Graye, 7km offshore. Ayla was then retaken by Saladin and the fort became known as Saladin&apos;s Castle. In a counter-attack, the notorious crusader, Reynald de Chatillon, took the island, but lost it again to Muslim forces the following year. 
+
+When the Mameluk Sultans of Egypt took control of the region, they renamed the city Aqaba and, in the 14th century, built the town&apos;s famous Mameluk fort, now known as the Aqaba Fort. The Mameluks were followed by the Ottomans, who ruled Aqaba for 4 centuries.
+
+Aqaba was taken from the Ottomans in 1917 by Arab forces, together with T.E. Lawrence. At the end of World War I, the British secured Aqaba for Jordan.
+</string>
+					<key>Img</key>
+					<string>AqabaHistory.png</string>
+					<key>GetThere</key>
+					<string>By Air: 
+
+Royal Wings offers regular flights from Amman to Aqaba; flying time is about 45 minutes. For more information, contact: 
+Royal Wings Tel: (+962) 6 4875202 
+
+By Bus:
+
+Several companies offer charter bus tours and regular tours between Amman &amp; Aqaba, including:
+
+JETT Tel: (06) 5664146 
+
+Trust International Tel: (06) 5813422 
+
+Alpha Daily Tours Tel: (06) 5855196 
+
+
+By Car or Taxi: 
+
+Aqaba via the Dead Sea road is about 3 - 4 hours drive from Amman, while the drive takes 4 hours along the Desert Highway and 5 hours on the scenic Kings&apos; Highway.</string>
+					<key>Map</key>
+					<string>aqaba_h.jpg</string>
+					<key>Latitude</key>
+					<string>29.565096</string>
+					<key>Longitude</key>
+					<string>35.007935</string>
+				</dict>
+				<key>Ajlun</key>
+				<dict>
+					<key>Description</key>
+					<string>The Ajlun area has a long history of human settlement, due to its Mediterranean climate, dense forests and fertile soil. This rich history reflected in the many archaeological ruins scattered in the woodlands and surrounding villages. 
+
+Ajlun Castle (Qal&apos;at Ar-Rabad) was built by one of Saladin&apos;s generals in 1184 AD to control the iron mines of Ajlun, and to deter the Franks from invading Ajlun. Ajlun Castle dominated the three main routes leading to the Jordan valley and protected the trade and commercial routes between Jordan and Syria; it became an important link in the defensive chain against the Crusaders, who unsuccessfully spent decades trying to capture the castle and the nearby village. Today, Ajlun Castle is a splendid sight with a fascinating warren of towers, chambers, galleries and staircases to explore, while its hilltop position offers stunning views of the Jordan Valley.
+
+Ajlun is just a short journey from Jerash through pine forest and olive groves and boasts scores of ancient sites, including water mills, forts and villages, all in the beautiful hills and valleys of north Jordan. Nearby is the Ajlun Nature Reserve, a 13 sq km protected area of outstanding beauty and diverse wildlife. Within the reserve are two nature trails and chalet-style accommodation. The reserve is managed and maintained by the Royal Society for the Conservation of Nature (RSCN).
+</string>
+					<key>Img</key>
+					<string>AjlunHistory.png</string>
+					<key>GetThere</key>
+					<string>By car or taxi from Amman:
+From the Sport City interchange in Amman, head northwest past the Jordan University then follow the road signs; Ajlun is 73kms from Amman.
+
+By Service Taxi:
+Take a taxi from Al-Abdali station. The taxi trips are not scheduled - the service taxis start their trips as soon as they have a full passenger load.</string>
+					<key>Map</key>
+					<string>ajloun-h.jpg</string>
+					<key>Latitude</key>
+					<string>32.330948</string>
+					<key>Longitude</key>
+					<string>35.748310</string>
+				</dict>
+				<key>Pella</key>
+				<dict>
+					<key>Description</key>
+					<string>Pella is a favourite of archaeologists as it is exceptionally rich in antiquities, some of which are exceedingly old. Close by this ancient settlement, evidence has been found of some of the world&apos;s earliest camp sites and semi-permanent villages dating back 10 to 18 thousand years to the Natufian and Kebaran periods. Together with excavated ruins from the Graeco-Roman period, Pella offers visitors the opportunity to see the remains of a Chalcolithic settlement from the 4th millennium BC, evidence of Bronze and Iron Age walled cities, Byzantine churches, early Islamic residential quarters and a small medieval mosque. </string>
+					<key>Img</key>
+					<string>pellaHistory.png</string>
+					<key>GetThere</key>
+					<string>Allow around one and a half  hours to get from Amman to Pella or Umm Qays via Irbid. A good idea is to start by exploring Jerash and its magnificent ruins then continue north.
+
+By car or taxi:
+From the Sport City interchange in Amman, head northwest past Jordan University.
+
+By bus:
+
+JETT
+Tel: (06) 5664146 - Offers a regular service in air-conditioned coaches from Amman to Irbid. 
+
+Hijazi 
+Tel: (06) 4651341 - Offers services every fifteen minutes. 
+
+Trust International 
+Tel: (06) 5813422 - Offers services from Aqaba to Irbid, departing each of the two cities at 08:30h and 15:30h.</string>
+					<key>Map</key>
+					<string>pella_h.jpg</string>
+					<key>Latitude</key>
+					<string>32.448579</string>
+					<key>Longitude</key>
+					<string>35.615686</string>
+				</dict>
+				<key>Umm Qays</key>
+				<dict>
+					<key>Description</key>
+					<string>Site of the famous miracle of the Gadarene swine, Gadara was renowned in its time as a cultural centre. Perched on a splendid hilltop overlooking the Jordan Valley and the Sea of Galilee, Gadara is today known as Umm Qays and boasts impressive colonnaded streets, a vaulted terrace, and the ruins of two theatres. You can take in the sights and then dine on the terrace of a fine restaurant with a breathtaking view of three countries. 
+The Al-Himma therapeutic hot springs are located around 10km north of Umm Qays and were once highly regarded by the Romans. There are two bathing facilities: a privately run complex, and a public bath complex, with separate timetables for men and women.</string>
+					<key>Img</key>
+					<string>UmmQaysHistory.png</string>
+					<key>GetThere</key>
+					<string>Allow around one and a half  hours to get from Amman to Pella or Umm Qays via Irbid. A good idea is to start by exploring Jerash and its magnificent ruins then continue north.
+
+By car or taxi:
+From the Sport City interchange in Amman, head northwest past Jordan University.
+
+By bus:
+
+JETT
+Tel: (06) 5664146 - Offers a regular service in air-conditioned coaches from Amman to Irbid. 
+
+Hijazi 
+Tel: (06) 4651341 - Offers services every fifteen minutes. 
+
+Trust International 
+Tel: (06) 5813422 - Offers services from Aqaba to Irbid, departing each of the two cities at 08:30h and 15:30h.</string>
+					<key>Map</key>
+					<string>umm-qays_h.jpg</string>
+					<key>Latitude</key>
+					<string>32.652962</string>
+					<key>Longitude</key>
+					<string>35.683937</string>
+				</dict>
+				<key>Showbak</key>
+				<dict>
+					<key>Description</key>
+					<string>Built during the Crusader times, the Showbak castle appears as a natural extension of a dramatic hill; it stands as a lonely reminder of former Crusader glory. Showbak was once called &quot;Mont Real&quot; and dates from the same turbulent period as Karak. The location has provided the castle with a natural moat,through a system of valleys that surround the central hill from all directions. Showbak Castle&apos;s exterior is impressive, with a foreboding gate and an encircling triple wall. Despite the precautions of its builder, the fortress fell to Saladin only 75 years after it was raised. Inscriptions by his proud successors appear today on the castle walls.</string>
+					<key>Img</key>
+					<string>showbakHistory.png</string>
+					<key>GetThere</key>
+					<string>Take the Desert Highway heading south, at the Hashmiyyeh Bridge turn right. Shawbak is around 2.5 hours from Amman.</string>
+					<key>Map</key>
+					<string>showbak-history.jpg</string>
+					<key>Latitude</key>
+					<string>30.5317141</string>
+					<key>Longitude</key>
+					<string>35.56077</string>
+				</dict>
+			</dict>
+			<key>Intro</key>
+			<string>Jordan is a land rich in history. Since the dawn of civilization, Jordan has played an important role in trade between the east and the west because of its geographic location at the crossroads of Asia, Africa and Europe. It has been home to some of mankind&apos;s earliest settlements and, till today, holds relics of some of the worlds greatest civilizations.</string>
+			<key>Image</key>
+			<string>historyculture2.png</string>
+		</dict>
+	</dict>
+	<key>otherString</key>
+	<dict>
+		<key>generalInfo</key>
+		<string>Images of the ancient Nabataean city of Petra, carved from the rock over a thousand years ago, have long been most people&apos;s first impression of Jordan.
+
+But while Petra is indeed one of the most stunning attractions in the Middle East, Jordan offers so much more for the modern traveller.
+
+A well-travelled bridge between sea and desert, east and west, the Hashemite Kingdom of Jordan is a land of mesmerizing beauty and contrasts, from the Jordan Valley, fertile, ever changing, to the remote desert canyons, immense and still. Visitors can explore splendid desert castles, gaze in awe at the haunting wilderness of Wadi Rum, or bathe in the restful waters of the Red Sea.
+
+For adventure lovers, there&apos;s horse riding, 4x4 safaris, rock climbing and hiking. For taking it easy, nothing on earth compares to the Dead Sea and the Red Sea, with their many spa facilities.
+
+Modern Jordan was founded by King Abdullah I after World War I. It was ruled by his grandson, the late King Hussein, for 46 years until his death in 1999, when his son, King Abdullah II, assumed the throne. Jordan has grown into a modern nation that has enjoyed a remarkable measure of peace, stability and economic growth in recent decades.</string>
+	</dict>
+	<key>history</key>
+	<dict>
+		<key>description</key>
+		<string>Jordan is a land rich in history. Since the dawn of civilization, Jordan has played an important role in trade between the east and the west because of its geographic location at the crossroads of Asia, Africa and Europe. It has been home to some of mankindís earliest settlements and, till today, holds relics of some of the worldís greatest civilizations.</string>
+		<key>images</key>
+		<array>
+			<string>city_amman.jpg</string>
+			<string>ic_Petra.jpg</string>
+			<string>ic_jerash.jpg</string>
+			<string>ic_alsalt.jpg</string>
+			<string>city_Madaba.jpg</string>
+			<string>ic_mount-nebo.jpg</string>
+			<string>ic_umm-arassas.jpg</string>
+			<string>ic_Mukawir.jpg</string>
+			<string>ic_jordan-valley.jpg</string>
+			<string>ic_karak.jpg</string>
+			<string>city_aqaba-history.jpg</string>
+			<string>ic_ajlun.jpg</string>
+			<string>ic_Pella.jpg</string>
+			<string>ic_umm-qays.jpg</string>
+			<string>ic_showbak.jpg</string>
+			<string>ic_desert-castles.jpg</string>
+		</array>
+		<key>names</key>
+		<array>
+			<string>Amman</string>
+			<string>Petra</string>
+			<string>Jerash</string>
+			<string>As-Salt</string>
+			<string>Madaba</string>
+			<string>Mount Nebo</string>
+			<string>Umm Ar-Rasas</string>
+			<string>Mukawir</string>
+			<string>The Jordan Valley</string>
+			<string>Karak</string>
+			<string>Aqaba</string>
+			<string>Ajlun</string>
+			<string>Pella</string>
+			<string>Umm Qays</string>
+			<string>Showbak</string>
+		</array>
+	</dict>
+	<key>eco</key>
+	<dict>
+		<key>description</key>
+		<string>Jordan is a country of outstanding biodiversity, encompassing pine-clad mountains, lush green valleys, wetlands and oases, breathtaking desert landscapes and kaleidoscopic underwater worlds.</string>
+		<key>images</key>
+		<array>
+			<string>ic_Dana.jpg</string>
+			<string>city_wadi-el-mujib-eco.jpg</string>
+			<string>city_aqaba-eco.jpg</string>
+			<string>city_wadi-rum-eco.jpg</string>
+		</array>
+		<key>names</key>
+		<array>
+			<string>Dana Biosphere Reserve</string>
+			<string>Wadi Mujib</string>
+			<string>Aqaba</string>
+			<string>Wadi Rum</string>
+		</array>
+	</dict>
+	<key>leisure</key>
+	<dict>
+		<key>description</key>
+		<string>Jordan has embarked on various projects that feature a combination of both leisure and wellness so as to ensure that visitors enjoy a unique, in-depth, and relaxing experience. This, combined with natural wellness wonders that Jordan has been blessed with, makes the country the ideal leisure and wellness destination. </string>
+		<key>images</key>
+		<array>
+			<string>ic_DeadSea.jpg</string>
+			<string>ic_hammamat-main.jpg</string>
+			<string>ic_amman.jpg</string>
+			<string>city_aqaba-leisure.jpg</string>
+		</array>
+		<key>names</key>
+		<array>
+			<string>The Dead Sea</string>
+			<string>Hammamat Ma&apos;in</string>
+			<string>Amman</string>
+			<string>Aqaba</string>
+		</array>
+	</dict>
+	<key>religion</key>
+	<dict>
+		<key>description</key>
+		<string>The Hashemite Kingdom of Jordan echoes with stories recorded in the Holy Bible of Abraham, Moses, Paul, Elijah, John the Baptist, Jesus Christ and many other biblical figures. </string>
+		<key>images</key>
+		<array>
+			<string>ic_Madaba.jpg</string>
+			<string>ic_mount-nebo.jpg</string>
+			<string>city_bethany.jpg</string>
+			<string>ic_umm-arassas.jpg</string>
+			<string>city_mukawir-religion.jpg</string>
+			<string>city_anjara-religion.jpg</string>
+		</array>
+		<key>names</key>
+		<array>
+			<string>Madaba</string>
+			<string>Mount Nebo</string>
+			<string>Bethany Beyond the Jordan</string>
+			<string>Um Al-Rasas</string>
+			<string>Mukawir</string>
+			<string>Anjara</string>
+		</array>
+	</dict>
+	<key>events</key>
+	<dict>
+		<key>description</key>
+		<string>Jordanis MICE (Meetings, Incentives, Conventions &amp; Events) industry has come of age. It understands the particular demands of the meetings and incentives market and strives to continuously exceed expectations. </string>
+		<key>images</key>
+		<array>
+			<string>city_amman-conferences.jpg</string>
+			<string>city_deadsea-conferences.jpg</string>
+			<string>city_petra-conferences.jpg</string>
+			<string>city_aqaba-conferences.jpg</string>
+		</array>
+		<key>names</key>
+		<array>
+			<string>Amman</string>
+			<string>The Dead Sea</string>
+			<string>Petra</string>
+			<string>Aqaba</string>
+		</array>
+	</dict>
+	<key>fun</key>
+	<dict>
+		<key>description</key>
+		<string>Fun and Adventure Tourism is expanding at a fast rate in Jordan, and promises to remain one of the most dynamic and innovative travel industry sectors for many years to come. Several Jordanian companies now specialize in ecological and adventure tourism, providing the visitor with a combination of safety, adventure, and comfort while they embark on their exciting adventures.</string>
+		<key>images</key>
+		<array>
+			<string>city_wadi-rum.jpg</string>
+			<string>city_aqaba.jpg</string>
+			<string>city_wadi-el-mujib.jpg</string>
+			<string>city_dana.jpg</string>
+		</array>
+		<key>names</key>
+		<array>
+			<string>Wadi Rum</string>
+			<string>Aqaba</string>
+			<string>Wadi Mujib</string>
+			<string>Dana Biosphere Reserve</string>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Taste the Wild (Jordan) Side</string>
+		<key>image</key>
+		<string>1.jpg</string>
+		<key>details</key>
+		<string>Enjoy the view from the Wild Jordan Cafe and support Jordan&apos;s nature reserves and those who live there by buying souvenirs - The Wild Jordan Cafe is one of the Royal Society for the Conservation of Nature&apos;s (RSCN) projects that work on conserving biodiversity throughout Jordan. Their menu is based on low fat and low carbohydrate recipes with ingredients extracted from the RSCN&apos;s nature reserves, while all revenue goes to support the RSCN&apos;s mission.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Visit the Nymphs</string>
+		<key>image</key>
+		<string>3.jpg</string>
+		<key>details</key>
+		<string>See the Roman Nymphaeum – Built in 191 AD, it was once a large, two-storey complex with fountains, mosaics, stone carvings and possibly a 600 sq.m. swimming pool. Up until 1947, the ancient stream and Roman bridge still stood where the road now runs. Excavations started in 1993, and restoration will continue for many years.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Customize you own Sand Bottle</string>
+		<key>image</key>
+		<string>5.jpg</string>
+		<key>details</key>
+		<string>Create your own sand bottle at downtown handicraft shops – Personalize your souvenirs with sand bottles featuring sites from Jordan or bearing your name, or personalize them as gifts to your friends. </string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Try some Mansaf</string>
+		<key>image</key>
+		<string>7.jpg</string>
+		<key>details</key>
+		<string>Try Mansaf, Jordan&apos;s national dish – A delicious concoction consisting of saffron-dyed rice and lamb chops in a yoghurt-like liquid called Jameed. </string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Buy the Real Deal</string>
+		<key>image</key>
+		<string>9.jpg</string>
+		<key>details</key>
+		<string>Shop for souvenirs downtown or at one of Amman&apos;s many handicraft shops – Downtown Amman boasts bustling streets brimming with small shops that offer unique souvenirs for visitors to take home as a reminder of their trip.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Learn to Cook</string>
+		<key>image</key>
+		<string>11.jpg</string>
+		<key>details</key>
+		<string>Learn to cook local food at Beit Sitti – Take a cooking class, usually consisting of 12 people or less, and learn how to cook traditional local food, including breakfast, lunch, and dinner meals, then feast on your creations.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Funducate the Kids</string>
+		<key>image</key>
+		<string>13.jpg</string>
+		<key>details</key>
+		<string>Visit the Children&apos;s Museum – Established based on an initiative by Her Majesty Queen Rania, in order to give children a chance to learn through play.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Witness Fashion History</string>
+		<key>image</key>
+		<string>15.jpg</string>
+		<key>details</key>
+		<string>Visit the Jordan Museum of Popular Traditions – This museum displays traditional Jordanian dress, including fine embroidery and beautiful antique jewellery, several 6th century mosaics from Madaba and Jerash. </string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Drive Through Memory Lane</string>
+		<key>image</key>
+		<string>17.jpg</string>
+		<key>details</key>
+		<string>Visit the Royal Automobile Museum – This museum has an amazing collection of motorbikes and cars going back to the time of the Great Arab Revolt, and includes the late King Hussein&apos;s 1952 London Capri (that he had when he was a student in England) and the 1955 Mercedes 300SL ‘Gullwing&apos; that he once raced.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Walk the Rainbow</string>
+		<key>image</key>
+		<string>19.jpg</string>
+		<key>details</key>
+		<string>Stroll down Rainbow Street – The street is lined with quaint coffee shops and little artisan shops and enjoys spectacular views of downtown Amman. </string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Action Packed Painting</string>
+		<key>image</key>
+		<string>21.jpg</string>
+		<key>details</key>
+		<string>Grab a few of your friends and go paintballing – What better activity for bonding and some friendly competition?!</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Catch a Screening</string>
+		<key>image</key>
+		<string>23.jpg</string>
+		<key>details</key>
+		<string>Visit the Royal Film Commission for a film screening or to see their film library – You can enjoy watching movies, reading books, and even rent them out. </string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Spice it Up</string>
+		<key>image</key>
+		<string>25.jpg</string>
+		<key>details</key>
+		<string>Tour the spice shops downtown – Grab a handful or two of special spices that you won&apos;t find back home, like Za&apos;atar and Sumak.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Fresh Baked Goodness</string>
+		<key>image</key>
+		<string>27.jpg</string>
+		<key>details</key>
+		<string>Make your own fresh ka&apos;ek sandwich at Salah Ad-Dine Bakery – One of the oldest bakeries in town, enjoy its freshly-baked bread with a sweet cup of mint tea.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Ascend an Indoor Peak</string>
+		<key>image</key>
+		<string>29.jpg</string>
+		<key>details</key>
+		<string>Enjoy indoor rock-climbing at a great and safe facility, with trained professionals to help you master the sport.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Get Inspired by Local Art</string>
+		<key>image</key>
+		<string>31.jpg</string>
+		<key>details</key>
+		<string>Visit one of Amman&apos;s many art galleries – The art scene in Amman is very lively with many galleries displaying local talent as well as works from artists abroad. </string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Sunset Views</string>
+		<key>image</key>
+		<string>33.jpg</string>
+		<key>details</key>
+		<string>Watch the sunset from one of the city&apos;s many hill tops – A quick drive to any of the many hills in Amman will provide you with a stunning view of the city, especially at sunset. Watch as the white limestone houses that crowd the city&apos;s hills delicately change colour as the sun sets.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Fine Arts</string>
+		<key>image</key>
+		<string>35.jpg</string>
+		<key>details</key>
+		<string>Visit the National Gallery of Fine Arts – This small but impressive gallery provides its visitors with a great appreciation for contemporary Jordanian painting, sculpture, and pottery. It was renovated in 2005 and also highlights contemporary art from around the Middle East and the greater Muslim world.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Get Cultured</string>
+		<key>image</key>
+		<string>37.jpg</string>
+		<key>details</key>
+		<string>Visit the Royal Cultural Centre – The Centre organizes lectures, exhibitions, musical recitals, concerts, and plays; usually in Arabic, but they are sometimes advertised in the local English-language newspapers.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Marvel at Islamic Architecture</string>
+		<key>image</key>
+		<string>39.jpg</string>
+		<key>details</key>
+		<string>Visit the Abu Darwish Mosque – The visually-stunning mosque at the top of Jabal Al-Ashrafiyeh was built in 1961 with alternating layers of black and white stone. Non-Muslims are generally not permitted inside, but the views on the way up the hill are enjoyable.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Splash Around</string>
+		<key>image</key>
+		<string>41.jpg</string>
+		<key>details</key>
+		<string>Cool off at a waterpark – You, your friends and/or family will be thankful for a day of splashing about in refreshing, clear water under the beautiful summer sun.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Get the Midas Touch</string>
+		<key>image</key>
+		<string>43.jpg</string>
+		<key>details</key>
+		<string>Go to the gold market downtown – Amman is the perfect place to shop for gold and silver due to the abundance of great designs and a price that is usually lower than anywhere else.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Once Upon a Time</string>
+		<key>image</key>
+		<string>45.jpg</string>
+		<key>details</key>
+		<string>Spend some time at Kan Zaman – This walled village dates back to the turn of the century. It has since been transformed into a restaurant and handicraft complex, with small shops offering a wide variety of traditional hand-crafted products and workshops in which you can see glass blowing and carpet weaving. The popular restaurant, with its vaulted ceilings, specializes in authentic Arabic cuisine, with the additional treat of nightly performances of Arabic music and dancing.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Downtown Gem</string>
+		<key>image</key>
+		<string>47.jpg</string>
+		<key>details</key>
+		<string>Try some local cuisine at Al-Quds Restaurant in the heart of downtown – This downtown gem is famous for its sweets and parties, but the restaurant in the back offers homemade-style local dishes, like Mansaf. </string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Taste Globally</string>
+		<key>image</key>
+		<string>49.jpg</string>
+		<key>details</key>
+		<string>Try international cuisine – Choose from many international restaurants available at the heart of the city, including Italian, Spanish, French, Chinese, Japanese, Indian cuisine, prepared by professional chefs for you to enjoy.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Tee Time</string>
+		<key>image</key>
+		<string>51.jpg</string>
+		<key>details</key>
+		<string>Spend a day playing golf – Enjoy some “me time” at Amman&apos;s one and only 9-hole brown golf course.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Hit the Target</string>
+		<key>image</key>
+		<string>53.jpg</string>
+		<key>details</key>
+		<string>Get an adrenaline rush at the firing range – Try target practice at the shooting range in Amman for a dose of thrilling fun.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Get a Strike</string>
+		<key>image</key>
+		<string>55.jpg</string>
+		<key>details</key>
+		<string>Go bowling – Many places in Jordan offer arcade games and bowling for fun bonding time with family and friends.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Cardamom Kick</string>
+		<key>image</key>
+		<string>57.jpg</string>
+		<key>details</key>
+		<string>Sample Jordanian coffee at a street vendor – Enjoy the kick of the flavor-rich coffee with hints of cardamom. </string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Catch a Movie</string>
+		<key>image</key>
+		<string>59.jpg</string>
+		<key>details</key>
+		<string>Watch a movie – Check local listings for local or international movies showing at one of Amman&apos;s many cinemas playing the latest releases from around the world.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Visit the Blue Domes</string>
+		<key>image</key>
+		<string>61.jpg</string>
+		<key>details</key>
+		<string>Visit the King Abdullah I Mosque – Completed in 1989 as a memorial by the late King Hussein to his grandfather, the unmistakeable blue-domed mosque can house up to 7,000 worshippers inside and another 3,000 in the courtyard area. All visitors are openly welcomed here.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Get Dramatic</string>
+		<key>image</key>
+		<string>63.jpg</string>
+		<key>details</key>
+		<string>Stop by Al-Balad Theatre for a cultural event – This used to be one of Amman&apos;s earlier cinemas and was converted into a cultural space a few years ago.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Flea market Fridays</string>
+		<key>image</key>
+		<string>65.jpg</string>
+		<key>details</key>
+		<string>Shop at the JARA Flea Market on Fridays in Jabal Amman (open April to October) – The market offers a wide variety of silver jewellery, embroidered items, and local food items for you to enjoy while taking in the magnificent views of the downtown area.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>#tweet</string>
+		<key>image</key>
+		<string>67.jpg</string>
+		<key>details</key>
+		<string>Visit the Bird Park – Take a stroll in this picturesque park with nice walking paths and benches everywhere, and a large playground for children to frolic.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Islamic history </string>
+		<key>image</key>
+		<string>69.jpg</string>
+		<key>details</key>
+		<string>Don&apos;t miss the chance to visit the Prophet Mohammad Museum (PBUH) at the King Hussein Mosque. It contains the letter that the Prophet (PBUH) sent to King Hercules</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Culture Galore</string>
+		<key>image</key>
+		<string>71.jpg</string>
+		<key>details</key>
+		<string>Visit Al-Hussein Cultural Centre in Ras Al-Ein – Plays, music concerts, dance performances, and film screenings take place here regularly.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Smoke Socially</string>
+		<key>image</key>
+		<string>73.jpg</string>
+		<key>details</key>
+		<string>Have flavoured shisha in one of Amman&apos;s many outdoor coffee shops – There are countless cafes that offer almost any kind of the flavoured tobacco for you to enjoy in a social atmosphere.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Boutique Shopping</string>
+		<key>image</key>
+		<string>75.jpg</string>
+		<key>details</key>
+		<string>Check out local jewellers&apos; and designers&apos; shops – Jordan&apos;s local design industry is rapidly growing. Pick up a couple of baubles that represent local culture while fusing it with some western designs. </string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Cheer on the National Team</string>
+		<key>image</key>
+		<string>77.jpg</string>
+		<key>details</key>
+		<string>Watch a soccer game in a coffee shop – Soccer – or football – is almost religiously followed by Jordanians, so join the cheering crowds and the infectious spirit of sports enthusiasts.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Grab a Bite</string>
+		<key>image</key>
+		<string>79.jpg</string>
+		<key>details</key>
+		<string>Have lunch at Auberge – An authentic experience in one of Amman&apos;s old restaurants. The restaurant serves different kinds of Arabic food including mixed grill and fish. A chance to interact with old Ammanis and tourists. A special balcony that overlooks the main downtown street.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Ramadan Nights</string>
+		<key>image</key>
+		<string>81.jpg</string>
+		<key>details</key>
+		<string>Enjoy a feast in Ramadan in one of the Ramadani tents – Bask in the traditional atmosphere and celebrations during the holy month of Ramadan.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Culture the Kids</string>
+		<key>image</key>
+		<string>83.jpg</string>
+		<key>details</key>
+		<string>Visit the Zaha Cultural Centre for Kids – The Centre provides cultural, intellectual, and entertainment services for children. It has sports courts, parks, a library, and gardens for families to enjoy. </string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Islam&apos;s Antiques</string>
+		<key>image</key>
+		<string>85.jpg</string>
+		<key>details</key>
+		<string>Visit the Islamic Museum – Inside the King Abdullah Mosque is this small museum that has some pottery pieces, as well as photographs and personal effects of King Abdullah I. There are also a number of pieces of Muslim art, coins, and stone engravings. The admission fee to the mosque includes access to the museum. Women are required to wear something to cover their hair (scarves can be borrowed at the mosque), and everyone must remove their shoes before entering the prayer hall.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Laugh it up</string>
+		<key>image</key>
+		<string>87.jpg</string>
+		<key>details</key>
+		<string>Catch a stand-up comedy show – Who doesn&apos;t love to laugh? Jordanians sure do! Head to one of the comedy nights in Amman for a few laughs.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Poets who Know it</string>
+		<key>image</key>
+		<string>89.jpg</string>
+		<key>details</key>
+		<string>Join poets and poetry enthusiasts at the House of Poetry – The house is the former residence of Prince Ali Bin Nayif. It was purchased by the Greater Amman Municipality in 1994, that began its restoration in 1999, preserving its architectural integrity, and dedicating it as a meeting place for local Arab poets and anyone interested in listening.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Natural Beauty Products</string>
+		<key>image</key>
+		<string>91.jpg</string>
+		<key>details</key>
+		<string>Step into the Soap House – Enjoy the scents of natural herbs and oils and browse through the various soaps and lotions, which are made using Jordanian olive oil and Dead Sea minerals. </string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Reflect your experience in a T-shirt</string>
+		<key>image</key>
+		<string>93.jpg</string>
+		<key>details</key>
+		<string>Citadel Nights – The Citadel towers over Amman and is a spectacular site by day; it is even more so at night. These events run through the holy month of Ramadan, and include a souk selling handicrafts, food items, and nightly performances from different artists, all while enjoying the sight of the Citadel illuminated at night.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Customize Your Scent</string>
+		<key>image</key>
+		<string>95.jpg</string>
+		<key>details</key>
+		<string>Have your own perfume made – There are several perfume stalls downtown that mix up scents. Ask for your favorite brand of perfume or have one created just for you.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Bird&apos;s eye view</string>
+		<key>image</key>
+		<string>97.jpg</string>
+		<key>details</key>
+		<string>Fly over Amman – The city is sprawling over 19 hills...what better way to see it than from the air? The Royal Jordanian Gliding Club offers both the experienced and trainee pilots the perfect flying experience. So much so that the RJGC has attracted many Arab and foreign visitors to fly the skies of Amman.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>History Speaks</string>
+		<key>image</key>
+		<string>99.jpg</string>
+		<key>details</key>
+		<string>Taste the variety of foods available at Jabri - Founded in 1935 in Al-Hashimi Street in downtown, Jabri is one of the oldest restaurants in Amman, offering a variety of Arabic food, from traditional home-cooked meals to sweets, chocolates, and ice cream.</string>
+	</dict>
+</array>
+</plist>
